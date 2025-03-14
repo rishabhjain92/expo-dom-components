@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.1",
-    "expo": "~52.0.33",
-    "expo-dev-client": "~5.0.12",
+    "expo": "~52.0.38",
+    "expo-dev-client": "~5.0.14",
     "expo-status-bar": "~2.0.1",
     "highcharts": "^12.1.2",
     "highcharts-react-official": "^3.2.1",
