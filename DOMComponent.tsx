@@ -7,7 +7,7 @@ export default function DOMComponent({
   dom: import('expo/dom').DOMProps
 }) {
   return (
-    <div>
+    <div style={{width: 100, height: 100}}>
       <h1>Hello, {name}</h1>
     </div>
   )
